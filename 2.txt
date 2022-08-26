@@ -1,2 +1,3 @@
 Texto prueba archivo 2
 Lucas Modifica archivo
+Prueba conflicto
